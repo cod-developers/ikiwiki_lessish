@@ -192,3 +192,15 @@ textarea {
 input#searchbox {
 	background: none;
 }
+
+table {
+	border-collapse: collapse;
+}
+
+tr:nth-child(odd){
+	background-color: #f2f2f2;
+}
+
+th {
+	background-color: #5d9a20;
+}
